@@ -4,7 +4,7 @@ class Data1 {
     int x;
 }
 
-public class _23_Example {
+public class _24_Example1 {
     public static void main(String[] args) {
         Data1 d = new Data1();
         d.x = 10;
