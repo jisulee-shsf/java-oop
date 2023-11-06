@@ -4,7 +4,6 @@ class NameTag {
     // 1-1) 인스턴스 변수 선언
     String name;
     String affiliation;
-
     // 1-2) 클래스 변수 선언
     static int width = 100;
     static int height = 200;
@@ -22,7 +21,7 @@ public class _13_Example {
         n1.affiliation = "aaaaa";
         System.out.println(n1.name); // AAA
         System.out.println(n1.affiliation); // aaaaa
-
+        
         NameTag n2 = new NameTag();
         n2.name = "BBB";
         n2.affiliation = "bbbbb";
