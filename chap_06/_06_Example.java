@@ -11,11 +11,10 @@ class Speaker1 {
 
 public class _06_Example {
     public static void main(String[] args) {
-        // 2) 객체의 생성 및 사용
+        // 2) 객체 생성 및 사용
         Speaker1 s;
         s = new Speaker1();
         s.volume = 3;
-        System.out.println(s.volume);
         s.volumeUp();
         System.out.println(s.volume); // 4
     }
