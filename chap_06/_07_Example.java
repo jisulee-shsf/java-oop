@@ -1,3 +1,5 @@
+package chap_06;
+
 class Speaker2 {
     boolean power;
     int volume;
