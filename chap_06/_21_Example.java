@@ -7,7 +7,7 @@ class MathExample2 {
         return result;
     }
 
-    // 2) 반환값이 변수가 아닌 경우 / 반환값의 타입과 반환 타입이 서로 일치하는 경우
+    // 2) 반환값이 수식인 경우 / 반환값의 타입과 반환 타입이 서로 일치하는 경우
     int method2(int x, int y) {
         return x + y;
     }
