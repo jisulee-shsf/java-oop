@@ -2,7 +2,7 @@
 ## 📌 Object-Oriented Programming II
 |Chapter|Contents|Code|Blog|
 |:---:|:---|:---:|:---:|
-|OPP II|7-2. 클래스 간의 관계(상속 관계)1|[Example.java](./chap_07/_02_Example1.java)|[jisulee-shsf.tistory.com](https://jisulee-shsf.tistory.com/257)|
+|OPP II|7-2. 클래스 간의 관계(상속 관계)1|[Example.java](./_02_Example1.java)|[jisulee-shsf.tistory.com](https://jisulee-shsf.tistory.com/257)|
 |OPP II|7-2. 클래스 간의 관계(상속 관계)2|[Example.java](./chap_07/_02_Example2.java)|[jisulee-shsf.tistory.com](https://jisulee-shsf.tistory.com/257)|
 |OPP II|7-4. 클래스 간의 관계 결정|[Example.java](./chap_07/_04_Example.java)|[jisulee-shsf.tistory.com](https://jisulee-shsf.tistory.com/259)|
 |OPP II|7-6. Object 클래스|[Example.java](./chap_07/_06_Example.java)|[jisulee-shsf.tistory.com](https://jisulee-shsf.tistory.com/263)|
