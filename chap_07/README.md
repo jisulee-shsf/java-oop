@@ -27,3 +27,6 @@
 |OPP II|7-37. 인터페이스의 구현|[Example.java](./chap_07/_37_Example.java)|[jisulee-shsf.tistory.com](https://jisulee-shsf.tistory.com/284)|
 |OPP II|7-38. 인터페이스와 다형성|[Example.java](./chap_07/_38_Example.java)|[jisulee-shsf.tistory.com](https://jisulee-shsf.tistory.com/276)|
 ####
+
+
+chap_07/chap_07_21_Example1/Parent.java
