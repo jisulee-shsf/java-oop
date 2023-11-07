@@ -1,5 +1,5 @@
 ####
-## 📌 Object-Oriented programming Ⅰ
+## 📌 Object-Oriented Programming Ⅰ
 |Chapter|Contents|Code|Blog|
 |:---:|:---|:---:|:---:|
 |OPP Ⅰ|6-4. 객체와 인스턴스|[Example.java](./chap_06/_04_Example.java)|[jisulee-shsf.tistory.com](https://jisulee-shsf.tistory.com/228)|
