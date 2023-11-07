@@ -33,6 +33,14 @@
 |3|7-4. 클래스 간의 관계 결정|[Example.java](./chap_07/_04_Example.java)|[jisulee-shsf.tistory.com](https://jisulee-shsf.tistory.com/259)|
 |4|7-6. Object 클래스|[Example.java](./chap_07/_06_Example.java)|[jisulee-shsf.tistory.com](https://jisulee-shsf.tistory.com/263)|
 |5|7-7. 오버라이딩|[Example.java](./chap_07/_07_Example.java)|[jisulee-shsf.tistory.com](https://jisulee-shsf.tistory.com/264)|
+|6|7-10. 참조 변수 super1|[Example.java](./chap_07/_10_Example1.java)|[jisulee-shsf.tistory.com](https://jisulee-shsf.tistory.com/265)|
+|7|7-10. 참조 변수 super2|[Example.java](./chap_07/_10_Example2.java)|[jisulee-shsf.tistory.com](https://jisulee-shsf.tistory.com/265)|
+|8|7-11. 생성자 super()1|[Example.java](./chap_07/_11_Example1.java)|[jisulee-shsf.tistory.com](https://jisulee-shsf.tistory.com/265)|
+|9|7-11. 생성자 super()2|[Example.java](./chap_07/_11_Example2.java)|[jisulee-shsf.tistory.com](https://jisulee-shsf.tistory.com/265)|
+|10|7-11. 생성자 super()3|[Example.java](./chap_07/_11_Example3.java)|[jisulee-shsf.tistory.com](https://jisulee-shsf.tistory.com/265)|
+|11|7-11. 생성자 super()4|[Example.java](./chap_07/_11_Example4.java)|[jisulee-shsf.tistory.com](https://jisulee-shsf.tistory.com/265)|
+
+
 ####  
 ## Reference  
 - [남궁성의 정석코딩] Java의 정석 기초편 강의
