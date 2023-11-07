@@ -7,7 +7,7 @@
 |Chapter|Contents|Code|Blog|
 |:---:|:---|:---:|:---:|
 |OPP Ⅰ|6-4. 객체와 인스턴스|[Example.java](./chap_06/_04_Example.java)|[jisulee-shsf.tistory.com](https://jisulee-shsf.tistory.com/228)|
-|OPP Ⅰ|6-6. 생성과 사용1|[Example.java](./chap_06/_06_Example.java)|[jisulee-shsf.tistory.com](https://jisulee-shsf.tistory.com/229)|
+|OPP Ⅰ|6-6. 객체의 생성과 사용1|[Example.java](./chap_06/_06_Example.java)|[jisulee-shsf.tistory.com](https://jisulee-shsf.tistory.com/229)|
 |OPP Ⅰ|6-7. 객체의 생성과 사용2|[Example.java](./chap_06/_07_Example.java)|[jisulee-shsf.tistory.com](https://jisulee-shsf.tistory.com/229)|
 |OPP Ⅰ|6-13. 클래스 변수와 인스턴스 변수|[Example.java](./chap_06/_13_Example.java)|[jisulee-shsf.tistory.com](https://jisulee-shsf.tistory.com/234)|
 |OPP Ⅰ|6-19. 메서드의 실행 흐름|[Example.java](./chap_06/_19_Example.java)|[jisulee-shsf.tistory.com](https://jisulee-shsf.tistory.com/238)|
