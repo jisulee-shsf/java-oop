@@ -46,7 +46,7 @@
 |OPP II|7-32. 추상 클래스와 추상 메서드|[Example.java](./chap_07/_32_Example.java)|[jisulee-shsf.tistory.com](https://jisulee-shsf.tistory.com/282)|
 |OPP II|7-33. 추상 클래스의 작성|[Example.java](./chap_07/_33_Example.java)|[jisulee-shsf.tistory.com](https://jisulee-shsf.tistory.com/283)|
 |OPP II|7-37. 인터페이스의 구현|[Example.java](./chap_07/_37_Example.java)|[jisulee-shsf.tistory.com](https://jisulee-shsf.tistory.com/284)|
-|OPP II|7-38. 인터페이스와 다형성|[Example.java](./chap_07/_38_Example.java)|[jisulee-shsf.tistory.com](https://jisulee-shsf.tistory.com/276)|
+|OPP II|7-38. 인터페이스와 다형성|[Example.java](./chap_07/_38_Example.java)|[jisulee-shsf.tistory.com](https://jisulee-shsf.tistory.com/286)|
 ####
 ## 📌 Reference
 - [남궁성의 정석코딩] Java의 정석 기초편 강의
