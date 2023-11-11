@@ -48,6 +48,7 @@
 |OPP II|7-37. 인터페이스의 구현|[Example.java](./chap_07/_37_Example.java)|[jisulee-shsf.tistory.com](https://jisulee-shsf.tistory.com/284)|
 |OPP II|7-38. 인터페이스와 다형성|[Example.java](./chap_07/_38_Example.java)|[jisulee-shsf.tistory.com](https://jisulee-shsf.tistory.com/286)|
 |OPP II|7-41. 디폴트 메서드와 static 메서드|[Example.java](./chap_07/_41_Example.java)|[jisulee-shsf.tistory.com](https://jisulee-shsf.tistory.com/308)|
+|OPP II|7-44. 내부 클래스|[Example.java](./chap_07/_44_Example.java)|[jisulee-shsf.tistory.com]|
 ####
 ## 📌 Reference
 - [남궁성의 정석코딩] Java의 정석 기초편 강의
