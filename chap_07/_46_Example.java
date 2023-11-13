@@ -1,6 +1,6 @@
 package chap_07;
 
-class Outer {
+class Outer1 {
     // 1) 인스턴스 내부 클래스
     class InstanceInner {
         int iv = 100;
@@ -33,9 +33,9 @@ class Outer {
 
 public class _46_Example {
     public static void main(String[] args) {
-        System.out.println(Outer.InstanceInner.CONST); // 100
-        System.out.println(Outer.StaticInner.CONST); // 200
+        System.out.println(Outer1.InstanceInner.CONST); // 100
+        System.out.println(Outer1.StaticInner.CONST); // 200
         // 3-3) 지역 내부 클래스의 static 상수를 사용하는 경우
-        // System.out.println(Outer.LocalInner.CONST); -> 에러 발생
+        // System.out.println(Outer1.LocalInner.CONST); -> 에러 발생
     }
 }
