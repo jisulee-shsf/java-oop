@@ -3,7 +3,7 @@ package chap_07;
 // 1. 조상 클래스
 class Parent3 {
     public void method1() {
-        System.out.println("Parent method1");
+        System.out.println("Parent3 method1");
     }
 }
 
@@ -20,7 +20,7 @@ interface TestInterface1 {
 // 2-2) 인터페이스
 interface TestInterface2 {
     default void method2() {
-        System.out.println("TestInterface2 method1");
+        System.out.println("TestInterface2 method2");
     }
 }
 
@@ -36,7 +36,7 @@ public class _41_Example {
     public static void main(String[] args) {
         Child3 c = new Child3();
         // 4-1) 디폴트 메서드와 조상 클래스의 메서드 간에 충돌이 발생하는 경우
-        c.method1(); // Parent method1
+        c.method1(); // Parent3 method1
         // 4-2) 여러 인터페이스의 디폴트 메서드 간에 충돌이 발생하는 경우
         c.method2(); // Child3 method2
     }
