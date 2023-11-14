@@ -1,6 +1,6 @@
 package chap_07;
 
-// 1. 조상 클래스
+// 1) 조상 클래스
 class Parent3 {
     public void method1() {
         System.out.println("Parent3 method1");
