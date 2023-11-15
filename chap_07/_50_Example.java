@@ -11,11 +11,9 @@ class Outer3 {
         int value = 200; // this.value
 
         // 3) 외부 클래스에 포함된 메서드
-        void method1() {
+        void method() {
             // 3-1) 외부 클래스에 포함된 메서드의 지역 변수
             int value = 300; // value
-        }
-        void method2() {
             System.out.println("Outer3.this.value: " + Outer3.this.value);
             System.out.println("this.value: " + this.value);
             System.out.println("value: " + value);
@@ -27,11 +25,11 @@ public class _50_Example {
     public static void main(String[] args) {
         Outer3 o = new Outer3();
         Outer3.InstanceInner i = o.new InstanceInner();
-        i.method2();
+        i.method();
         /*
         Outer3.this.value: 100
         this.value: 200
-        value: 200
+        value: 300
         */
     }
 }
