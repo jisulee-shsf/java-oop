@@ -13,8 +13,8 @@
 |OPP II|7-11. 생성자 super()2|[Example.java](./_11_Example2.java)|[jisulee-shsf.tistory.com](https://jisulee-shsf.tistory.com/265)|
 |OPP II|7-11. 생성자 super()3|[Example.java](./_11_Example3.java)|[jisulee-shsf.tistory.com](https://jisulee-shsf.tistory.com/265)|
 |OPP II|7-11. 생성자 super()4|[Example.java](./_11_Example4.java)|[jisulee-shsf.tistory.com](https://jisulee-shsf.tistory.com/265)|
-|OPP II|7-21. 접근 제어자1|[Example.java](./chap_07_21_Example1/_21_Example1/Parent.java)|[jisulee-shsf.tistory.com](https://jisulee-shsf.tistory.com/270)|
-|OPP II|7-21. 접근 제어자2|[Example.java](./chap_07_21_Example1/_21_Example2/Example.java)|[jisulee-shsf.tistory.com](https://jisulee-shsf.tistory.com/270)|
+|OPP II|7-21. 접근 제어자1|[Example.java](./chap_07_21_Example1/Parent.java)|[jisulee-shsf.tistory.com](https://jisulee-shsf.tistory.com/270)|
+|OPP II|7-21. 접근 제어자2|[Example.java](./chap_07_21_Example1/Example.java)|[jisulee-shsf.tistory.com](https://jisulee-shsf.tistory.com/270)|
 |OPP II|7-22. 캡슐화와 접근 제어자1|[Example.java](./_22_Example1.java)|[jisulee-shsf.tistory.com](https://jisulee-shsf.tistory.com/272)|
 |OPP II|7-22. 캡슐화와 접근 제어자2|[Example.java](./_22_Example2.java)|[jisulee-shsf.tistory.com](https://jisulee-shsf.tistory.com/272)|
 |OPP II|7-23. 다형성|[Example.java](./_23_Example.java)|[jisulee-shsf.tistory.com](https://jisulee-shsf.tistory.com/273)|
