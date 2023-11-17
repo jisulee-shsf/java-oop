@@ -49,6 +49,8 @@
 |OPP II|7-38. 인터페이스와 다형성|[Example.java](./chap_07/_38_Example.java)|[jisulee-shsf.tistory.com](https://jisulee-shsf.tistory.com/286)|
 |OPP II|7-41. 디폴트 메서드와 static 메서드|[Example.java](./chap_07/_41_Example.java)|[jisulee-shsf.tistory.com](https://jisulee-shsf.tistory.com/308)|
 |OPP II|7-46. 내부 클래스의 제어자와 접근성1|[Example.java](./chap_07/_46_Example.java)|[jisulee-shsf.tistory.com](https://jisulee-shsf.tistory.com/311)|
+|OPP II|7-49. 내부 클래스의 제어자와 접근성2|[Example.java](./chap_07/_49_Example.java)|[jisulee-shsf.tistory.com](https://jisulee-shsf.tistory.com/312)|
+|OPP II|7-50. 내부 클래스의 제어자와 접근성3|[Example.java](./chap_07/_50_Example.java)|[jisulee-shsf.tistory.com](https://jisulee-shsf.tistory.com/312)|
 ####
 ## 📌 Reference
 - [남궁성의 정석코딩] Java의 정석 기초편 강의
