@@ -1,6 +1,6 @@
 ####
 ## 📌 Intro
-- 본 repository는 Java의 정석 강의 실습 내용을 개인 복습용으로 정리했습니다.
+- 본 repository는 Object-Oriented Programming 위주의 Java의 정석 강의 실습 내용을 개인 복습용으로 정리했습니다.
 - 모든 코드는 실습 내용을 바탕으로 직접 작성했으며, 학습 진도에 맞춘 세부 contents는 아래와 같습니다.
 ####
 ## 📌 Table of Contents
