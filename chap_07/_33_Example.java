@@ -35,7 +35,7 @@ class Skater1 extends Player2 {
 
 public class _33_Example {
     public static void main(String[] args) {
-        // 3-1) 공통 조상 클래스 타입의 참조 변수 배열 생성 및 메서드 호출
+        // 3-1) 추상 클래스 타입의 참조 변수 배열 생성 및 메서드 호출
         Player2[] g1 = { new Footballer2(), new Skater1() };
         for (int i = 0; i < g1.length; i++) {
             g1[i].move(100, 200);
