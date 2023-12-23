@@ -11,7 +11,7 @@ abstract class Player1 {
         y = 0;
     }
 
-    // 1-3) 추상 메서드 정의
+    // 1-3) 추상 메서드 선언
     abstract void move(int x, int y);
     abstract void stop();
 
