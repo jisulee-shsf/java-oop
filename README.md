@@ -47,10 +47,6 @@
 |OOP II|추상 클래스의 작성|[Example.java](./chap_07/_33_Example.java)|[tistory.com](https://jisulee-shsf.tistory.com/283)|
 |OOP II|인터페이스의 구현|[Example.java](./chap_07/_37_Example.java)|[tistory.com](https://jisulee-shsf.tistory.com/284)|
 |OOP II|인터페이스와 다형성|[Example.java](./chap_07/_38_Example.java)|[tistory.com](https://jisulee-shsf.tistory.com/286)|
-|OOP II|디폴트 메서드와 static 메서드|[Example.java](./chap_07/_41_Example.java)|[tistory.com](https://jisulee-shsf.tistory.com/308)|
-|OOP II|내부 클래스의 제어자와 접근성1|[Example.java](./chap_07/_46_Example.java)|[tistory.com](https://jisulee-shsf.tistory.com/311)|
-|OOP II|내부 클래스의 제어자와 접근성2|[Example.java](./chap_07/_49_Example.java)|[tistory.com](https://jisulee-shsf.tistory.com/312)|
-|OOP II|내부 클래스의 제어자와 접근성3|[Example.java](./chap_07/_50_Example.java)|[tistory.com](https://jisulee-shsf.tistory.com/312)|
 ####
 ## Reference
 - [남궁성의 정석코딩] Java의 정석 기초편 강의
