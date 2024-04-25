@@ -4,7 +4,7 @@
 - 모든 코드는 실습 내용을 바탕으로 직접 작성했으며, 세부 contents는 아래와 같습니다.
 ####
 ## Contents
-|Chapter|Contents|Code|Blog|
+|Chapter|Content|Code|Blog|
 |:---:|:---|:---:|:---:|
 |OOP Ⅰ|객체와 인스턴스|[Example.java](./chap_06/_04_Example.java)|[tistory.com](https://jisulee-shsf.tistory.com/228)|
 |OOP Ⅰ|객체의 생성과 사용1|[Example.java](./chap_06/_06_Example.java)|[tistory.com](https://jisulee-shsf.tistory.com/229)|
